@@ -1,6 +1,8 @@
 # Apuntes_Semana Trece
 Apuntes control de movimiento - Segundo Corte - Novena Semana
 
+Tomás Santiago Sánchez Barrera & María Fernanda Ortíz Velandia & Andrés Felipe Arteaga Escalante
+
 # Control de Movimiento (Diseño de Transmisión)
 
 **Introducción al Diseño de Transmisión**
